@@ -8,14 +8,16 @@ import Contact from "../components/contact";
 const MainPage = () => {
   return (
     <>
-      <div className="min-h-full bg-gray-100">
+      <div className="min-h-full bg-white">
         <Menu />
-        <div className="min-h-full bg-slate-600 p-3">
+        <main>
           <Intro />
           <Start />
           <About />
+        </main>
+        <footer className="bg-gray-50 text-white">
           <Contact />
-        </div>
+        </footer>
       </div>
     </>
   );
