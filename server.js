@@ -14,3 +14,11 @@ app.get("api/random-word", async(req, res) => {
 app.listen(8080, () =>{
   console.log("8080 서버 대기중");
 });
+
+/*
+kotoba: Stirng
+yomikata: String
+meaning: Stirng
+JLPT: Number(1~5) or None
+example: String (Ai로 만들기)
+*/

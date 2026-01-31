@@ -1,0 +1,786 @@
+[
+  {
+    "id": 1,
+    "kotoba": "猫",
+    "yomikata": "ねこ",
+    "meaning": "고양이",
+    "JLPT": 5,
+    "example": "こたつの上に猫がいます。"
+  },
+  {
+    "id": 2,
+    "kotoba": "勉強",
+    "yomikata": "べんきょう",
+    "meaning": "공부",
+    "JLPT": 5,
+    "example": "毎日日本語を勉強しています。"
+  },
+  {
+    "id": 3,
+    "kotoba": "新しい",
+    "yomikata": "あたらしい",
+    "meaning": "새롭다",
+    "JLPT": 5,
+    "example": "新しい靴を買いました。"
+  },
+  {
+    "id": 4,
+    "kotoba": "図書館",
+    "yomikata": "としょかん",
+    "meaning": "도서관",
+    "JLPT": 5,
+    "example": "図書館で本を借ります。"
+  },
+  {
+    "id": 5,
+    "kotoba": "散歩",
+    "yomikata": "さんぽ",
+    "meaning": "산책",
+    "JLPT": 5,
+    "example": "公園を散歩するのが好きです。"
+  },
+  {
+    "id": 6,
+    "kotoba": "旅行",
+    "yomikata": "りょこう",
+    "meaning": "여행",
+    "JLPT": 5,
+    "example": "来週、日本へ旅行に行きます。"
+  },
+  {
+    "id": 7,
+    "kotoba": "楽しい",
+    "yomikata": "たのしい",
+    "meaning": "즐겁다",
+    "JLPT": 5,
+    "example": "パーティーはとても楽しかったです。"
+  },
+  {
+    "id": 8,
+    "kotoba": "辞書",
+    "yomikata": "じしょ",
+    "meaning": "사전",
+    "JLPT": 5,
+    "example": "わからない言葉を辞書で調べます。"
+  },
+  {
+    "id": 9,
+    "kotoba": "電話",
+    "yomikata": "でんわ",
+    "meaning": "전화",
+    "JLPT": 5,
+    "example": "友達に電話をかけました。"
+  },
+  {
+    "id": 10,
+    "kotoba": "買い物",
+    "yomikata": "かいもの",
+    "meaning": "쇼핑, 장보기",
+    "JLPT": 5,
+    "example": "スーパーへ買い物に行きます。"
+  },
+  {
+    "id": 11,
+    "kotoba": "季節",
+    "yomikata": "きせつ",
+    "meaning": "계절",
+    "JLPT": 4,
+    "example": "日本には四季という四つの季節があります。"
+  },
+  {
+    "id": 12,
+    "kotoba": "約束",
+    "yomikata": "やくそく",
+    "meaning": "약속",
+    "JLPT": 4,
+    "example": "明日、彼と会う約束があります。"
+  },
+  {
+    "id": 13,
+    "kotoba": "紹介",
+    "yomikata": "しょうかい",
+    "meaning": "소개",
+    "JLPT": 4,
+    "example": "自己紹介をお願いします。"
+  },
+  {
+    "id": 14,
+    "kotoba": "準備",
+    "yomikata": "じゅんび",
+    "meaning": "준비",
+    "JLPT": 4,
+    "example": "試験の準備をしています。"
+  },
+  {
+    "id": 15,
+    "kotoba": "利用",
+    "yomikata": "りよう",
+    "meaning": "이용",
+    "JLPT": 4,
+    "example": "地下鉄を利用して通勤しています。"
+  },
+  {
+    "id": 16,
+    "kotoba": "複雑",
+    "yomikata": "ふくざつ",
+    "meaning": "복잡함",
+    "JLPT": 4,
+    "example": "この問題は少し複雑です。"
+  },
+  {
+    "id": 17,
+    "kotoba": "特に",
+    "yomikata": "とくに",
+    "meaning": "특히",
+    "JLPT": 4,
+    "example": "私は特に寿司が好きです。"
+  },
+  {
+    "id": 18,
+    "kotoba": "経験",
+    "yomikata": "けいけん",
+    "meaning": "경험",
+    "JLPT": 4,
+    "example": "留学は良い経験になりました。"
+  },
+  {
+    "id": 19,
+    "kotoba": "説明",
+    "yomikata": "せつめい",
+    "meaning": "설명",
+    "JLPT": 4,
+    "example": "理由を詳しく説明してください。"
+  },
+  {
+    "id": 20,
+    "kotoba": "習慣",
+    "yomikata": "しゅうかん",
+    "meaning": "습관",
+    "JLPT": 4,
+    "example": "早起きは良い習慣です。"
+  },
+  {
+    "id": 21,
+    "kotoba": "興味",
+    "yomikata": "きょうみ",
+    "meaning": "흥미",
+    "JLPT": 4,
+    "example": "日本の歴史に興味があります。"
+  },
+  {
+    "id": 22,
+    "kotoba": "景色",
+    "yomikata": "けしき",
+    "meaning": "경치",
+    "JLPT": 4,
+    "example": "山からの景色は素晴らしいです。"
+  },
+  {
+    "id": 23,
+    "kotoba": "安全",
+    "yomikata": "あんぜん",
+    "meaning": "안전",
+    "JLPT": 4,
+    "example": "安全運転を心がけてください。"
+  },
+  {
+    "id": 24,
+    "kotoba": "故障",
+    "yomikata": "こしょう",
+    "meaning": "고장",
+    "JLPT": 4,
+    "example": "パソコンが故障してしまいました。"
+  },
+  {
+    "id": 25,
+    "kotoba": "反対",
+    "yomikata": "はんたい",
+    "meaning": "반대",
+    "JLPT": 4,
+    "example": "彼の意見には反対です。"
+  },
+  {
+    "id": 26,
+    "kotoba": "我慢",
+    "yomikata": "がまん",
+    "meaning": "참음, 인내",
+    "JLPT": 3,
+    "example": "痛くても少し我慢してください。"
+  },
+  {
+    "id": 27,
+    "kotoba": "正直",
+    "yomikata": "しょうじき",
+    "meaning": "정직함, 솔직함",
+    "JLPT": 3,
+    "example": "正直に話してください。"
+  },
+  {
+    "id": 28,
+    "kotoba": "努力",
+    "yomikata": "どりょく",
+    "meaning": "노력",
+    "JLPT": 3,
+    "example": "努力すれば夢は叶います。"
+  },
+  {
+    "id": 29,
+    "kotoba": "当然",
+    "yomikata": "とうぜん",
+    "meaning": "당연함",
+    "JLPT": 3,
+    "example": "彼が怒るのも当然だ。"
+  },
+  {
+    "id": 30,
+    "kotoba": "優勝",
+    "yomikata": "ゆうしょう",
+    "meaning": "우승",
+    "JLPT": 3,
+    "example": "サッカーの大会で優勝しました。"
+  },
+  {
+    "id": 31,
+    "kotoba": "関係",
+    "yomikata": "かんけい",
+    "meaning": "관계",
+    "JLPT": 3,
+    "example": "私と彼はただの友達関係です。"
+  },
+  {
+    "id": 32,
+    "kotoba": "現在",
+    "yomikata": "げんざい",
+    "meaning": "현재",
+    "JLPT": 3,
+    "example": "現在、気温は25度です。"
+  },
+  {
+    "id": 33,
+    "kotoba": "感情",
+    "yomikata": "かんじょう",
+    "meaning": "감정",
+    "JLPT": 3,
+    "example": "感情をコントロールするのは難しい。"
+  },
+  {
+    "id": 34,
+    "kotoba": "提案",
+    "yomikata": "ていあん",
+    "meaning": "제안",
+    "JLPT": 3,
+    "example": "新しいプロジェクトを提案しました。"
+  },
+  {
+    "id": 35,
+    "kotoba": "満足",
+    "yomikata": "まんぞく",
+    "meaning": "만족",
+    "JLPT": 3,
+    "example": "今の生活に十分満足しています。"
+  },
+  {
+    "id": 36,
+    "kotoba": "表現",
+    "yomikata": "ひょうげん",
+    "meaning": "표현",
+    "JLPT": 3,
+    "example": "感謝の気持ちを言葉で表現しました。"
+  },
+  {
+    "id": 37,
+    "kotoba": "実際",
+    "yomikata": "じっさい",
+    "meaning": "실제",
+    "JLPT": 3,
+    "example": "理論と実際は違います。"
+  },
+  {
+    "id": 38,
+    "kotoba": "交換",
+    "yomikata": "こうかん",
+    "meaning": "교환",
+    "JLPT": 3,
+    "example": "メールアドレスを交換しましょう。"
+  },
+  {
+    "id": 39,
+    "kotoba": "発表",
+    "yomikata": "はっぴょう",
+    "meaning": "발표",
+    "JLPT": 3,
+    "example": "試験の結果が発表されました。"
+  },
+  {
+    "id": 40,
+    "kotoba": "自然",
+    "yomikata": "しぜん",
+    "meaning": "자연",
+    "JLPT": 3,
+    "example": "週末は自然の中で過ごしたいです。"
+  },
+  {
+    "id": 41,
+    "kotoba": "傾向",
+    "yomikata": "けいこう",
+    "meaning": "경향",
+    "JLPT": 2,
+    "example": "最近の若者は本を読まない傾向がある。"
+  },
+  {
+    "id": 42,
+    "kotoba": "対策",
+    "yomikata": "たいさく",
+    "meaning": "대책",
+    "JLPT": 2,
+    "example": "地震への対策が必要です。"
+  },
+  {
+    "id": 43,
+    "kotoba": "影響",
+    "yomikata": "えいきょう",
+    "meaning": "영향",
+    "JLPT": 2,
+    "example": "親の行動は子供に大きな影響を与えます。"
+  },
+  {
+    "id": 44,
+    "kotoba": "供給",
+    "yomikata": "きょうきゅう",
+    "meaning": "공급",
+    "JLPT": 2,
+    "example": "電力の供給が不安定です。"
+  },
+  {
+    "id": 45,
+    "kotoba": "維持",
+    "yomikata": "いじ",
+    "meaning": "유지",
+    "JLPT": 2,
+    "example": "健康を維持するために運動しています。"
+  },
+  {
+    "id": 46,
+    "kotoba": "深刻",
+    "yomikata": "しんこく",
+    "meaning": "심각함",
+    "JLPT": 2,
+    "example": "環境問題はますます深刻になっています。"
+  },
+  {
+    "id": 47,
+    "kotoba": "批判",
+    "yomikata": "ひはん",
+    "meaning": "비판",
+    "JLPT": 2,
+    "example": "彼は政府の方針を強く批判した。"
+  },
+  {
+    "id": 48,
+    "kotoba": "管理",
+    "yomikata": "かんり",
+    "meaning": "관리",
+    "JLPT": 2,
+    "example": "健康管理には気をつけています。"
+  },
+  {
+    "id": 49,
+    "kotoba": "緊張",
+    "yomikata": "きんちょう",
+    "meaning": "긴장",
+    "JLPT": 2,
+    "example": "面接の前でとても緊張しています。"
+  },
+  {
+    "id": 50,
+    "kotoba": "確率",
+    "yomikata": "かくりつ",
+    "meaning": "확률",
+    "JLPT": 2,
+    "example": "成功する確率は高いです。"
+  },
+  {
+    "id": 51,
+    "kotoba": "組織",
+    "yomikata": "そしき",
+    "meaning": "조직",
+    "JLPT": 2,
+    "example": "新しい組織を作る計画があります。"
+  },
+  {
+    "id": 52,
+    "kotoba": "省略",
+    "yomikata": "しょうりゃく",
+    "meaning": "생략",
+    "JLPT": 2,
+    "example": "詳しい説明は省略します。"
+  },
+  {
+    "id": 53,
+    "kotoba": "尊重",
+    "yomikata": "そんちょう",
+    "meaning": "존중",
+    "JLPT": 2,
+    "example": "相手の意見を尊重することが大切です。"
+  },
+  {
+    "id": 54,
+    "kotoba": "反映",
+    "yomikata": "はんえい",
+    "meaning": "반영",
+    "JLPT": 2,
+    "example": "市民の声を政策に反映させる。"
+  },
+  {
+    "id": 55,
+    "kotoba": "魅力",
+    "yomikata": "みりょく",
+    "meaning": "매력",
+    "JLPT": 2,
+    "example": "京都は歴史的な魅力がある都市です。"
+  },
+  {
+    "id": 56,
+    "kotoba": "応援",
+    "yomikata": "おうえん",
+    "meaning": "응원",
+    "JLPT": 2,
+    "example": "好きなチームを全力で応援しました。"
+  },
+  {
+    "id": 57,
+    "kotoba": "誤解",
+    "yomikata": "ごかい",
+    "meaning": "오해",
+    "JLPT": 2,
+    "example": "私の説明不足で誤解を招いてしまった。"
+  },
+  {
+    "id": 58,
+    "kotoba": "姿勢",
+    "yomikata": "しせい",
+    "meaning": "자세, 태도",
+    "JLPT": 2,
+    "example": "学ぶ姿勢が重要です。"
+  },
+  {
+    "id": 59,
+    "kotoba": "抽象的",
+    "yomikata": "ちゅうしょうてき",
+    "meaning": "추상적",
+    "JLPT": 2,
+    "example": "その説明は少し抽象的でわかりにくい。"
+  },
+  {
+    "id": 60,
+    "kotoba": "徹底",
+    "yomikata": "てってい",
+    "meaning": "철저",
+    "JLPT": 1,
+    "example": "衛生管理を徹底しています。"
+  },
+  {
+    "id": 61,
+    "kotoba": "緩和",
+    "yomikata": "かんわ",
+    "meaning": "완화",
+    "JLPT": 1,
+    "example": "規制が緩和されました。"
+  },
+  {
+    "id": 62,
+    "kotoba": "貢献",
+    "yomikata": "こうけん",
+    "meaning": "공헌",
+    "JLPT": 1,
+    "example": "彼は会社の発展に大きく貢献した。"
+  },
+  {
+    "id": 63,
+    "kotoba": "把握",
+    "yomikata": "はあく",
+    "meaning": "파악",
+    "JLPT": 1,
+    "example": "現状を正確に把握する必要があります。"
+  },
+  {
+    "id": 64,
+    "kotoba": "矛盾",
+    "yomikata": "むじゅん",
+    "meaning": "모순",
+    "JLPT": 1,
+    "example": "彼の話には矛盾がある。"
+  },
+  {
+    "id": 65,
+    "kotoba": "犠牲",
+    "yomikata": "ぎせい",
+    "meaning": "희생",
+    "JLPT": 1,
+    "example": "多くの犠牲を払って勝利を得た。"
+  },
+  {
+    "id": 66,
+    "kotoba": "概念",
+    "yomikata": "がいねん",
+    "meaning": "개념",
+    "JLPT": 1,
+    "example": "時間の概念が変わりました。"
+  },
+  {
+    "id": 67,
+    "kotoba": "顕著",
+    "yomikata": "けんちょ",
+    "meaning": "현저함, 두드러짐",
+    "JLPT": 1,
+    "example": "効果が顕著に現れている。"
+  },
+  {
+    "id": 68,
+    "kotoba": "迅速",
+    "yomikata": "じんそく",
+    "meaning": "신속함",
+    "JLPT": 1,
+    "example": "迅速な対応が求められます。"
+  },
+  {
+    "id": 69,
+    "kotoba": "妥協",
+    "yomikata": "だきょう",
+    "meaning": "타협",
+    "JLPT": 1,
+    "example": "品質に関して妥協は一切しません。"
+  },
+  {
+    "id": 70,
+    "kotoba": "模索",
+    "yomikata": "もさく",
+    "meaning": "모색",
+    "JLPT": 1,
+    "example": "解決策を模索しています。"
+  },
+  {
+    "id": 71,
+    "kotoba": "露骨",
+    "yomikata": "ろこつ",
+    "meaning": "노골적",
+    "JLPT": 1,
+    "example": "彼は露骨に嫌な顔をした。"
+  },
+  {
+    "id": 72,
+    "kotoba": "柔軟",
+    "yomikata": "じゅうなん",
+    "meaning": "유연함",
+    "JLPT": 1,
+    "example": "状況に応じて柔軟に対応します。"
+  },
+  {
+    "id": 73,
+    "kotoba": "意図",
+    "yomikata": "いと",
+    "meaning": "의도",
+    "JLPT": 1,
+    "example": "作家の意図を読み取る。"
+  },
+  {
+    "id": 74,
+    "kotoba": "基盤",
+    "yomikata": "きばん",
+    "meaning": "기반",
+    "JLPT": 1,
+    "example": "生活の基盤を築く。"
+  },
+  {
+    "id": 75,
+    "kotoba": "潔い",
+    "yomikata": "いさぎよい",
+    "meaning": "깨끗하다, 미련 없다",
+    "JLPT": 1,
+    "example": "彼は潔く負けを認めた。"
+  },
+  {
+    "id": 76,
+    "kotoba": "崩壊",
+    "yomikata": "ほうかい",
+    "meaning": "붕괴",
+    "JLPT": 1,
+    "example": "バブル経済が崩壊した。"
+  },
+  {
+    "id": 77,
+    "kotoba": "蓄積",
+    "yomikata": "ちくせき",
+    "meaning": "축적",
+    "JLPT": 1,
+    "example": "疲労が蓄積している。"
+  },
+  {
+    "id": 78,
+    "kotoba": "憤り",
+    "yomikata": "いきどおり",
+    "meaning": "분개, 분노",
+    "JLPT": 1,
+    "example": "不正に対して憤りを感じる。"
+  },
+  {
+    "id": 79,
+    "kotoba": "革命",
+    "yomikata": "かくめい",
+    "meaning": "혁명",
+    "JLPT": 3,
+    "example": "産業革命は社会を大きく変えた。"
+  },
+  {
+    "id": 80,
+    "kotoba": "感謝",
+    "yomikata": "かんしゃ",
+    "meaning": "감사",
+    "JLPT": 3,
+    "example": "両親に感謝しています。"
+  },
+  {
+    "id": 81,
+    "kotoba": "空",
+    "yomikata": "そら",
+    "meaning": "하늘",
+    "JLPT": 5,
+    "example": "今日の空はとても青いです。"
+  },
+  {
+    "id": 82,
+    "kotoba": "水",
+    "yomikata": "みず",
+    "meaning": "물",
+    "JLPT": 5,
+    "example": "水を一杯ください。"
+  },
+  {
+    "id": 83,
+    "kotoba": "食べる",
+    "yomikata": "たべる",
+    "meaning": "먹다",
+    "JLPT": 5,
+    "example": "朝ごはんを食べましたか。"
+  },
+  {
+    "id": 84,
+    "kotoba": "手",
+    "yomikata": "て",
+    "meaning": "손",
+    "JLPT": 5,
+    "example": "ご飯を食べる前に手を洗います。"
+  },
+  {
+    "id": 85,
+    "kotoba": "前",
+    "yomikata": "まえ",
+    "meaning": "앞, 전",
+    "JLPT": 5,
+    "example": "駅の前で会いましょう。"
+  },
+  {
+    "id": 86,
+    "kotoba": "招待",
+    "yomikata": "しょうたい",
+    "meaning": "초대",
+    "JLPT": 4,
+    "example": "結婚式に招待されました。"
+  },
+  {
+    "id": 87,
+    "kotoba": "将来",
+    "yomikata": "しょうらい",
+    "meaning": "장래",
+    "JLPT": 4,
+    "example": "将来の夢は医者です。"
+  },
+  {
+    "id": 88,
+    "kotoba": "番組",
+    "yomikata": "ばんぐみ",
+    "meaning": "프로그램 (방송)",
+    "JLPT": 4,
+    "example": "このテレビ番組は面白いです。"
+  },
+  {
+    "id": 89,
+    "kotoba": "普通",
+    "yomikata": "ふつう",
+    "meaning": "보통",
+    "JLPT": 4,
+    "example": "朝は普通、パンを食べます。"
+  },
+  {
+    "id": 90,
+    "kotoba": "守る",
+    "yomikata": "まもる",
+    "meaning": "지키다",
+    "JLPT": 3,
+    "example": "ルールを守ることは大切です。"
+  },
+  {
+    "id": 91,
+    "kotoba": "戻る",
+    "yomikata": "もどる",
+    "meaning": "되돌아가다",
+    "JLPT": 3,
+    "example": "席に戻ってください。"
+  },
+  {
+    "id": 92,
+    "kotoba": "役",
+    "yomikata": "やく",
+    "meaning": "역할, 역",
+    "JLPT": 3,
+    "example": "彼は主役を演じました。"
+  },
+  {
+    "id": 93,
+    "kotoba": "豊か",
+    "yomikata": "ゆたか",
+    "meaning": "풍요로움",
+    "JLPT": 2,
+    "example": "この国は自然が豊かです。"
+  },
+  {
+    "id": 94,
+    "kotoba": "要素",
+    "yomikata": "ようそ",
+    "meaning": "요소",
+    "JLPT": 2,
+    "example": "成功の重要な要素は何ですか。"
+  },
+  {
+    "id": 95,
+    "kotoba": "論理",
+    "yomikata": "ろんり",
+    "meaning": "논리",
+    "JLPT": 2,
+    "example": "彼の説明は論理が通っている。"
+  },
+  {
+    "id": 96,
+    "kotoba": "枠",
+    "yomikata": "わく",
+    "meaning": "테두리, 틀",
+    "JLPT": 1,
+    "example": "常識の枠を超えた発想だ。"
+  },
+  {
+    "id": 97,
+    "kotoba": "挑む",
+    "yomikata": "いどむ",
+    "meaning": "도전하다",
+    "JLPT": 1,
+    "example": "彼は世界記録に挑んだ。"
+  },
+  {
+    "id": 98,
+    "kotoba": "促す",
+    "yomikata": "うながす",
+    "meaning": "재촉하다, 촉구하다",
+    "JLPT": 1,
+    "example": "注意を促す看板を立てる。"
+  }
+]
