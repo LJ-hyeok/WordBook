@@ -36,6 +36,10 @@ app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'client/dist/index.html'));
 });
 
+app.get('*splat', (req, res) => { // 나머지 모든 주소는 홈으로
+  res.redirect('/');
+});
+
 const PORT = process.env.PORT || 8080;
 app.listen(PORT,() =>{
   console.log(`${PORT} 서버 대기중`);
