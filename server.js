@@ -3,7 +3,6 @@ const path = require('path');
 const app = express();
 const cors = require('cors');
 const fs = require('fs');
-const PORT = process.env.PORT || 8080;
 
 app.use(cors());
 app.use(express.json());
@@ -35,6 +34,7 @@ app.get("/api/level-test", async(req, res) => {//무작위로 단어를 추출�
   }catch ( error ) { console.log("err: can't send data"); res.status(500).send("eroor");}
 });
 
+const PORT = process.env.PORT || 8080;
 app.listen(PORT, () =>{
   console.log(`${PORT} 서버 대기중`);
 });
