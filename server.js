@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'client/dist')))
 
-app.get('/', (req, res) => {
+app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'client/dist/index.html'));
 })
 
@@ -35,7 +35,7 @@ app.get("/api/level-test", async(req, res) => {//무작위로 단어를 추출�
 });
 
 const PORT = process.env.PORT || 8080;
-app.listen(PORT, () =>{
+app.listen(PORT, '0,0,0,0',() =>{
   console.log(`${PORT} 서버 대기중`);
 });
 
