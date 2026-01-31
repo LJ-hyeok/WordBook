@@ -8,9 +8,7 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'client/dist')))
 
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'client/dist/index.html'));
-})
+
 
 app.get("/api/level-test", async(req, res) => {//무작위로 단어를 추출해서 전송하는 기능
   try{
@@ -34,8 +32,12 @@ app.get("/api/level-test", async(req, res) => {//무작위로 단어를 추출�
   }catch ( error ) { console.log("err: can't send data"); res.status(500).send("eroor");}
 });
 
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'client/dist/index.html'));
+});
+
 const PORT = process.env.PORT || 8080;
-app.listen(PORT, '0,0,0,0',() =>{
+app.listen(PORT,() =>{
   console.log(`${PORT} 서버 대기중`);
 });
 
