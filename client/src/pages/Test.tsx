@@ -26,8 +26,7 @@ const Test = () => {
   useEffect(() => {
     const fetchQuestions = async () => { //비동기인 경우의 useEffect 사용법
       try {
-        // TODO: 나중에 실제 백엔드 API (Example: /api/level-test)로 교체해야 합니다.
-        const res = await fetch('http://localhost:8080/api/level-test'); 
+        const res = await fetch('/api/level-test');  // 로컬에서는 'http://localhost:8080/api/level-test'
         const data = await res.json();
         console.log(data);
 
