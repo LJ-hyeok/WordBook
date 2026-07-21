@@ -1,11 +1,11 @@
 {
-  "name": "react-express",
-  "version": "1.0.0",
-  "description": "",
+  "name": "jp_wordbook",
+  "version": "1.0.1",
+  "description": "JLPT 단어 공부 퀴즈",
   "license": "ISC",
-  "author": "",
+  "author": "LJ-Hyeok",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
